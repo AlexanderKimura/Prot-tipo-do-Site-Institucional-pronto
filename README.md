@@ -1,1 +1,1 @@
-Site Institucional feito pelo repositório da Prof Emilly dia 16/09/22
+Protótipo do Site Institucional da "Acquatec" feito pelo repositório da Prof Emilly dia 16/09/22.

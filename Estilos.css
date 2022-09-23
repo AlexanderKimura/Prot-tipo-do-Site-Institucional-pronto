@@ -30,6 +30,16 @@ body{
 
 }
 
+.header ul #aqui {
+    font-weight: 1000;
+    color: #32b9cd;
+}
+
+a {
+    color: #e3b062;
+    text-decoration: none;
+}
+
 .navbar{
 
     display: flex;
@@ -139,3 +149,4 @@ body{
     justify-content: center;
     
 }
+
